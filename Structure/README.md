@@ -17,7 +17,6 @@ The mission's success strongly depends on the cooperation between the groups res
 On this folder you will be able to find our:
 
 - **Project Reports**: The reports requested by the teachers.
-- **Group Resources**: Documents, Excel Files, and other materials created by our group.
 - **Changelogs**: Documented revisions that track the evolution of our part of the project.
 - **Media Gallery**: A collection of images and videos capturing our journey, from the workshop to the airfield.
 - **Resource Library**: Technical documents, design plans, and research materials supporting our project.
